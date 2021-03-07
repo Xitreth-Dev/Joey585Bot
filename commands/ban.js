@@ -15,3 +15,5 @@ exports.run = (client, message, [mention, ...reason]) => {
       message.reply(`${member.user.username} was succesfully banned.`);
     });
   };
+
+// Eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
